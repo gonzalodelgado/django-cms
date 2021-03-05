@@ -3,6 +3,11 @@ Changelog
 =========
 
 
+3.8.0-treebeardpatch
+==================
+
+* Added django-treebeard 4.5.1 support, previously pinned django-treebeard<4.5 to avoid breaking changes introduced
+
 3.8.0 (2020-10-28)
 ==================
 
